@@ -1,6 +1,6 @@
 ## Hey, I'm Simon Scatton! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="sdachess" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdachess&label=Views&color=blue&style=plastic" alt="sdachess" /> </p>
 
 <a href="https://twitter.com/sdachess">
   <img align="left" alt="Simon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
