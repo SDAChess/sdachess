@@ -14,6 +14,9 @@
 <a href="https://www.youtube.com/channel/UCqxyo3QQ54CkNIPyCLrNpLg">
   <img align="left" alt="Simon's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://www.twitch.tv/sdachess">
+  <img align="left" alt="Simon's Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+</a>
 
 <br/>
 <br/>
