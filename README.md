@@ -27,7 +27,6 @@
 - 🌱 I’m currently learning more about Flutter and C.
 - 💬 Ask me about Mathematics or Functionnal programming.
 - 📫 How to reach me: Discord - @SDA#3806
-- ⚡ Fun fact: I cry at night because I can't master VIM.
 
 [![Linkedin: Simon Scatton](https://img.shields.io/badge/-Simon%20Scatton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-scatton-b69a02159/)](https://www.linkedin.com/in/simon-scatton-b69a02159/)
 [![GitHub SDAChess](https://img.shields.io/github/followers/sdachess?label=follow&style=social)](https://github.com/sdachess)
