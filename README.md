@@ -2,9 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdachess&label=Views&color=blue&style=plastic" alt="sdachess" /> </p>
 
-<a href="https://twitter.com/sdachess">
-  <img align="left" alt="Simon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/simon-scatton-b69a02159/">
   <img align="left" alt="Simon's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
