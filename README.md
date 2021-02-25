@@ -41,14 +41,13 @@
 
 
 <a href="https://github.com/sdachess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdachess&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/sdachess">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdachess&show_icons=true&theme=light&line_height=27" alt="Simon's github stats"/>
 </a>
+<br/>
 <a href="https://github.com/thenaturlfoundation/naturL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenaturlfoundation&repo=naturL&theme=light" />
 </a>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
