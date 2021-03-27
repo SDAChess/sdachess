@@ -41,7 +41,7 @@
 
 
 <a href="https://github.com/sdachess">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdachess&show_icons=true&theme=light&line_height=27" alt="Simon's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdachess&show_icons=true&include_all_commits=true?count_private=true&line_height=27" alt="Simon's github stats"/>
 </a>
 <br/>
 <a href="https://github.com/thenaturlfoundation/naturL">
