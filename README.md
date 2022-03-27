@@ -30,7 +30,7 @@
 </a>
 <br/>
 <a href="https://github.com/naturl-lang/naturL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naturl-lang&repo=naturL&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheNaturlFoundation&repo=rationL&theme=light" />
 </a>
 
 <div align="center">
