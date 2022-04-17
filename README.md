@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on [Social Fluide](https://social-fluide.com/).
 - 🌱 I’m currently learning more about Rust and C.
 - 💬 Ask me about Mathematics or Functionnal programming.
-- 📫 How to reach me: Discord - @SDA#3806
+- 📫 How to reach me: Discord - @sda#0420
 
 
 <a href="https://github.com/sdachess">
