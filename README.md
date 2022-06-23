@@ -19,9 +19,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Social Fluide](https://social-fluide.com/).
-- 🌱 I’m currently learning more about Rust and C.
-- 💬 Ask me about Mathematics or Functionnal programming.
+- 🔭 I’m currently working on Active Automata Learning.
+- 🌱 I’m currently learning more about C++.
+- 💬 Ask me about Mathematics or theoretical computer science.
 - 📫 How to reach me: Discord - @sda#0420
 
 
