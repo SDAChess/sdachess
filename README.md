@@ -18,13 +18,6 @@
 <br/>
 <br/>
 
-
-- 🔭 I’m currently working on Active Automata Learning.
-- 🌱 I’m currently learning more about C++.
-- 💬 Ask me about Mathematics or theoretical computer science.
-- 📫 How to reach me: Discord - @sda#0420
-
-
 <a href="https://github.com/sdachess">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdachess&show_icons=true&include_all_commits=true?count_private=true&line_height=27" alt="Simon's github stats"/>
 </a>
@@ -32,9 +25,3 @@
 <a href="https://github.com/naturl-lang/naturL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheNaturlFoundation&repo=rationL&theme=light" />
 </a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
